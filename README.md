@@ -1,1 +1,2 @@
-This is a clone of Google keep
+This is inspired by Google keep
+
